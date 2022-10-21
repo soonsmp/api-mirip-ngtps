@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "res api website",
   "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "start"
